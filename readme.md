@@ -1,6 +1,6 @@
 # Picture (/File) Upload Demo
 
-![Picture (/File) Upload Demo]("/file_upload.png")
+![Picture (/File) Upload Demo](/file_upload.png)
 
 *Run `npm install` in project folder to setup server and in client folder to setup client*
 *Run with `npm run dev`*
