@@ -2,9 +2,9 @@
 
 ![Picture (/File) Upload Demo](https://github.com/IADT-AdvancedJS/mern-file-upload/blob/master/file-upload.png)
 
-*Run `npm install` in project folder to setup server and in client folder to setup client*
-*Run with `npm run dev`*
-*Requires local mongodb server to be running*
+- *Run `npm install` in both the root project folder and in the client folder to download dependencies for server and client respectively*
+- *Run with `npm run dev`*
+- *Requires local mongodb server to be running*
 
 Server-side (based on https://ciphertrick.com/2017/02/28/file-upload-with-nodejs-and-gridfs-mongodb/)
 - MongoDB (gridfs for large > 16MB file storage)
