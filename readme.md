@@ -12,12 +12,12 @@ Server-side (based on https://ciphertrick.com/2017/02/28/file-upload-with-nodejs
 - Express
 
 Client-side
-- React (created with CRA)
+- React (created with [CRA](https://github.com/facebook/create-react-app))
 
 Both can be run together using
 `npm run dev` or `yarn dev`
 
-This setup is based on https://medium.freecodecamp.org/how-to-make-create-react-app-work-with-a-node-backend-api-7c5c48acb1b0
+This setup is based on <https://medium.freecodecamp.org/how-to-make-create-react-app-work-with-a-node-backend-api-7c5c48acb1b0>
 
 Keys are changes in server's package.json:
 
